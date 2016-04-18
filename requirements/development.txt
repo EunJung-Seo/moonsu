@@ -1,3 +1,5 @@
-Django==1.9.4
-Pillow
+-r production.txt
+django-extensions
+ipython
+pep8
 
