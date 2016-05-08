@@ -129,4 +129,4 @@ STATIC_ROOT = os.path.join(PROJECT_ROOT_DIR, 'dist', 'static')
 STATIC_FILES_DIRS = [os.path.join(BASE_DIR, 'moonsu', 'static')]
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(PROJECT_ROOT_DIR, 'dist', 'static')
+MEDIA_ROOT = os.path.join(PROJECT_ROOT_DIR, 'dist', 'media')
