@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'django_extensions',
 
-    'phrase',
+    'moonsu',
 
 ]
 
